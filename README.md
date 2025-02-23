@@ -1,6 +1,6 @@
 # Dashboard Sales for Warmindo 2022
 
-[Dashboard Preview Warmindo](https://public.tableau.com/views/DashboardWarmindo_17167103162890/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Dashboard Warmindo](https://public.tableau.com/views/DashboardWarmindo_17167103162890/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 📌 Description  
 This is my final project for FILING 2024: Data Analyst. This repository contains the **Dashboard Sales for Warmindo 2022** project, which aims to analyze and visualize sales data from Warmindo throughout 2022. The dashboard helps in understanding sales trends, best-selling products, and monthly sales performance.
